@@ -1,11 +1,15 @@
 # music-playlist-24S1080001
+
 songs = []
 def add_song():
-    print("Chức năng thêm bài hát chưa được cài đặt.")
+    print("Chức năng thêm bài hát (chưa làm).")
+
 def view_playlist():
-    print("Chức năng xem playlist chưa được cài đặt.")
+    print("Chức năng xem playlist (chưa làm).")
+
 def search_by_artist():
-    print("Chức năng tìm theo ca sĩ chưa được cài đặt.")
+    print("Chức năng tìm theo ca sĩ (chưa làm).")
+
 def main():
     while True:
         print("\n--- MUSIC PLAYLIST MANAGER ---")
